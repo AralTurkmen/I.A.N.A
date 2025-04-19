@@ -1,2 +1,1 @@
-# I.A.N.A
-Ionizing Atom Nuclear Alerter is a DIY Geiger counter
+I.A.N.A uses a CTC-5 ("STS-5") soviet Geiger-Müller tube
